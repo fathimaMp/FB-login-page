@@ -4,7 +4,7 @@ This is a static clone of the Facebook homepage built using **HTML**, **CSS**, a
 
 
 ## 🖼️ Project Overview
-
+ 
 The project replicates the visual layout of the Facebook login and sign-up page, including:
 - Login form with fields for email/phone and password
 - Sign-up form with fields for name, email, password, birthday, and gender
